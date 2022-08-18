@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afsaan&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrakantPal&layout=compact&theme=merko&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afsaan&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsaan&layout=compact&theme=merko&hide_border=true" /> |
 | ------------- | ------------- |
 <!--
 **Afsaan/Afsaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
